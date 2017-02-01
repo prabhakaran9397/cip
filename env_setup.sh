@@ -1,1 +1,1 @@
-echo 'export PYTHONPATH=$PYTHONPATH:$PWD' >> ~/.bashrc
+echo 'export PYTHONPATH=$PYTHONPATH:$PWD' >> ~/.zshrc
