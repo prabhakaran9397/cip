@@ -1,0 +1,338 @@
+WARNING:tensorflow:From /home/prabhakaran9397/cip/seq2seq_model.py:166 in __init__.: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+ * Running on http://10.0.0.4:8000/ (Press CTRL+C to quit)
+171.49.215.182 - - [21/Feb/2017 01:23:06] "GET / HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:06] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:07] "GET /static/js/index.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:07] "GET /static/res/botim.png HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:08] "GET /static/js/jquery.mCustomScrollbar.min.css HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:09] "GET /static/res/hd2.jpg HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:29] "POST /message HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:23:34] "POST /message HTTP/1.1" 200 -
+194.208.252.31 - - [21/Feb/2017 01:33:54] "HEAD http://137.116.122.71:80/mysql/admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:33:56] "HEAD http://137.116.122.71:80/mysql/sqlmanager/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:33:57] "HEAD http://137.116.122.71:80/mysql/mysqlmanager/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:33:58] "HEAD http://137.116.122.71:80/phpmyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:33:59] "HEAD http://137.116.122.71:80/phpMyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:00] "HEAD http://137.116.122.71:80/phpMyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:01] "HEAD http://137.116.122.71:80/phpmyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:02] "HEAD http://137.116.122.71:80/phpmyadmin2/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:04] "HEAD http://137.116.122.71:80/phpmyadmin3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:04] "HEAD http://137.116.122.71:80/phpmyadmin4/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:05] "HEAD http://137.116.122.71:80/2phpmyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:07] "HEAD http://137.116.122.71:80/phpmy/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:08] "HEAD http://137.116.122.71:80/phppma/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:08] "HEAD http://137.116.122.71:80/myadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:09] "HEAD http://137.116.122.71:80/shopdb/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:10] "HEAD http://137.116.122.71:80/MyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:11] "HEAD http://137.116.122.71:80/program/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:12] "HEAD http://137.116.122.71:80/PMA/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:13] "HEAD http://137.116.122.71:80/dbadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:14] "HEAD http://137.116.122.71:80/pma/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:15] "HEAD http://137.116.122.71:80/db/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:16] "HEAD http://137.116.122.71:80/admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:17] "HEAD http://137.116.122.71:80/mysql/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:18] "HEAD http://137.116.122.71:80/database/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:18] "HEAD http://137.116.122.71:80/db/phpmyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:19] "HEAD http://137.116.122.71:80/db/phpMyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:20] "HEAD http://137.116.122.71:80/sqlmanager/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:21] "HEAD http://137.116.122.71:80/mysqlmanager/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:22] "HEAD http://137.116.122.71:80/php-myadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:22] "HEAD http://137.116.122.71:80/phpmy-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:23] "HEAD http://137.116.122.71:80/mysqladmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:24] "HEAD http://137.116.122.71:80/mysql-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:24] "HEAD http://137.116.122.71:80/admin/phpmyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:25] "HEAD http://137.116.122.71:80/admin/phpMyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:25] "HEAD http://137.116.122.71:80/admin/sysadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:26] "HEAD http://137.116.122.71:80/admin/sqladmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:26] "HEAD http://137.116.122.71:80/admin/db/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:27] "HEAD http://137.116.122.71:80/admin/web/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:27] "HEAD http://137.116.122.71:80/admin/pMA/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:27] "HEAD http://137.116.122.71:80/mysql/pma/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:28] "HEAD http://137.116.122.71:80/mysql/db/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:28] "HEAD http://137.116.122.71:80/mysql/web/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:28] "HEAD http://137.116.122.71:80/mysql/pMA/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:29] "HEAD http://137.116.122.71:80/sql/phpmanager/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:29] "HEAD http://137.116.122.71:80/sql/php-myadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:30] "HEAD http://137.116.122.71:80/sql/phpmy-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:30] "HEAD http://137.116.122.71:80/sql/sql/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:30] "HEAD http://137.116.122.71:80/sql/myadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:31] "HEAD http://137.116.122.71:80/sql/webadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:31] "HEAD http://137.116.122.71:80/sql/sqlweb/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:31] "HEAD http://137.116.122.71:80/sql/websql/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:31] "HEAD http://137.116.122.71:80/sql/webdb/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:32] "HEAD http://137.116.122.71:80/sql/sqladmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:32] "HEAD http://137.116.122.71:80/sql/sql-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:32] "HEAD http://137.116.122.71:80/sql/phpmyadmin2/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:32] "HEAD http://137.116.122.71:80/sql/phpMyAdmin2/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:33] "HEAD http://137.116.122.71:80/sql/phpMyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:33] "HEAD http://137.116.122.71:80/db/myadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:33] "HEAD http://137.116.122.71:80/db/webadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:33] "HEAD http://137.116.122.71:80/db/dbweb/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:34] "HEAD http://137.116.122.71:80/db/websql/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:34] "HEAD http://137.116.122.71:80/db/webdb/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:34] "HEAD http://137.116.122.71:80/db/dbadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:34] "HEAD http://137.116.122.71:80/db/db-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:35] "HEAD http://137.116.122.71:80/db/phpmyadmin3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:35] "HEAD http://137.116.122.71:80/db/phpMyAdmin3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:35] "HEAD http://137.116.122.71:80/db/phpMyAdmin-3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:35] "HEAD http://137.116.122.71:80/administrator/phpmyadmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:35] "HEAD http://137.116.122.71:80/administrator/phpMyAdmin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:36] "HEAD http://137.116.122.71:80/administrator/db/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:36] "HEAD http://137.116.122.71:80/administrator/web/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:36] "HEAD http://137.116.122.71:80/administrator/pma/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:37] "HEAD http://137.116.122.71:80/administrator/PMA/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:37] "HEAD http://137.116.122.71:80/administrator/admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:37] "HEAD http://137.116.122.71:80/phpMyAdmin2/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:37] "HEAD http://137.116.122.71:80/phpMyAdmin3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:38] "HEAD http://137.116.122.71:80/phpMyAdmin4/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:38] "HEAD http://137.116.122.71:80/phpMyAdmin-3/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:38] "HEAD http://137.116.122.71:80/php-my-admin/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:38] "HEAD http://137.116.122.71:80/PMA2012/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:38] "HEAD http://137.116.122.71:80/pma2012/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:39] "HEAD http://137.116.122.71:80/PMA2011/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:39] "HEAD http://137.116.122.71:80/pma2011/ HTTP/1.1" 404 -
+194.208.252.31 - - [21/Feb/2017 01:34:39] "HEAD http://137.116.122.71:80/phpmanager/ HTTP/1.1" 404 -
+171.49.215.182 - - [21/Feb/2017 01:35:43] "GET / HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:43] "GET /static/css/normalize.css HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:43] "GET /static/js/jquery.mCustomScrollbar.min.css HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:43] "GET /static/css/style.css HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:43] "GET /static/js/jquery-latest.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:45] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:45] "GET /static/js/jquery.mCustomScrollbar.concat.min.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:45] "GET /static/js/index.js HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:45] "GET /static/res/botim.png HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:47] "GET /static/res/hd2.jpg HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:35:50] "GET /favicon.ico HTTP/1.1" 404 -
+171.49.215.182 - - [21/Feb/2017 01:36:57] "POST /message HTTP/1.1" 200 -
+171.49.215.182 - - [21/Feb/2017 01:37:13] "POST /message HTTP/1.1" 200 -
+71.6.202.196 - - [21/Feb/2017 01:38:12] "GET / HTTP/1.0" 200 -
+49.4.142.147 - - [21/Feb/2017 01:40:32] "GET / HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:31] "GET / HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:31] "GET /static/css/normalize.css HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:32] "GET /static/js/jquery.mCustomScrollbar.min.css HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:32] "GET /static/css/style.css HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:32] "GET /static/js/jquery-latest.js HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:32] "GET /static/js/jquery.min.js HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:33] "GET /static/js/jquery.mCustomScrollbar.concat.min.js HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:33] "GET /static/js/index.js HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:33] "GET /static/res/hd2.jpg HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:34] "GET /static/res/botim.png HTTP/1.1" 200 -
+49.206.121.10 - - [21/Feb/2017 01:53:40] "GET /favicon.ico HTTP/1.1" 404 -
+WARNING:tensorflow:From /home/prabhakaran9397/cip/seq2seq_model.py:166 in __init__.: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+
+>> Mode : train
+
+Preparing data in working_dir/
+Creating 3 layers of 256 units.
+Reading model parameters from working_dir/seq2seq.ckpt-165900
+Reading development and training data (limit: 0).
+  reading data line 100000
+global step 166200 learning rate 0.2171 step-time 3.32 perplexity 1.69
+  eval: bucket 0 perplexity 45311102.68
+  eval: bucket 1 perplexity 4763246.58
+  eval: bucket 2 perplexity 2302595.62
+  eval: bucket 3 perplexity 925462.19
+global step 166500 learning rate 0.2171 step-time 3.51 perplexity 1.76
+  eval: bucket 0 perplexity 10402041.73
+  eval: bucket 1 perplexity 19204600.17
+  eval: bucket 2 perplexity 2902459.92
+  eval: bucket 3 perplexity 580584.42
+global step 166800 learning rate 0.2171 step-time 3.32 perplexity 1.71
+  eval: bucket 0 perplexity 25772863.33
+  eval: bucket 1 perplexity 21864594.15
+  eval: bucket 2 perplexity 3233163.77
+  eval: bucket 3 perplexity 710925.75
+global step 167100 learning rate 0.2171 step-time 3.52 perplexity 1.77
+  eval: bucket 0 perplexity 16046411.32
+  eval: bucket 1 perplexity 31702856.43
+  eval: bucket 2 perplexity 3100816.37
+  eval: bucket 3 perplexity 1050962.75
+global step 167400 learning rate 0.2149 step-time 3.14 perplexity 1.67
+  eval: bucket 0 perplexity 7154668.25
+  eval: bucket 1 perplexity 23297079.73
+  eval: bucket 2 perplexity 3097110.30
+  eval: bucket 3 perplexity 706209.08
+global step 167700 learning rate 0.2149 step-time 3.05 perplexity 1.63
+  eval: bucket 0 perplexity 5532945.17
+  eval: bucket 1 perplexity 12180161.28
+  eval: bucket 2 perplexity 2337667.67
+  eval: bucket 3 perplexity 740989.21
+global step 168000 learning rate 0.2149 step-time 3.43 perplexity 1.74
+  eval: bucket 0 perplexity 51919519.89
+  eval: bucket 1 perplexity 28590329.85
+  eval: bucket 2 perplexity 2759554.35
+  eval: bucket 3 perplexity 701014.10
+global step 168300 learning rate 0.2149 step-time 3.16 perplexity 1.68
+  eval: bucket 0 perplexity 74906844.70
+  eval: bucket 1 perplexity 5863901.88
+  eval: bucket 2 perplexity 1873216.73
+  eval: bucket 3 perplexity 925071.28
+global step 168600 learning rate 0.2149 step-time 3.24 perplexity 1.68
+  eval: bucket 0 perplexity 14947232.11
+  eval: bucket 1 perplexity 15109441.68
+  eval: bucket 2 perplexity 5092100.96
+  eval: bucket 3 perplexity 814796.71
+global step 168900 learning rate 0.2149 step-time 3.14 perplexity 1.68
+  eval: bucket 0 perplexity 35591150.18
+  eval: bucket 1 perplexity 30674467.61
+  eval: bucket 2 perplexity 3842048.28
+  eval: bucket 3 perplexity 794927.48
+global step 169200 learning rate 0.2149 step-time 3.19 perplexity 1.68
+  eval: bucket 0 perplexity 14959638.92
+  eval: bucket 1 perplexity 14111082.06
+  eval: bucket 2 perplexity 3053164.84
+  eval: bucket 3 perplexity 1050379.59
+global step 169500 learning rate 0.2149 step-time 3.24 perplexity 1.69
+  eval: bucket 0 perplexity 24076252.19
+  eval: bucket 1 perplexity 15085569.63
+  eval: bucket 2 perplexity 3449735.82
+  eval: bucket 3 perplexity 1312620.21
+global step 169800 learning rate 0.2128 step-time 3.39 perplexity 1.74
+  eval: bucket 0 perplexity 46733027.54
+  eval: bucket 1 perplexity 12048595.06
+  eval: bucket 2 perplexity 4761775.01
+  eval: bucket 3 perplexity 875927.59
+global step 170100 learning rate 0.2107 step-time 3.29 perplexity 1.69
+  eval: bucket 0 perplexity 32992299.52
+  eval: bucket 1 perplexity 45564512.64
+  eval: bucket 2 perplexity 4006177.73
+  eval: bucket 3 perplexity 830265.94
+global step 170400 learning rate 0.2107 step-time 3.26 perplexity 1.66
+  eval: bucket 0 perplexity 26278280.28
+  eval: bucket 1 perplexity 9671204.22
+  eval: bucket 2 perplexity 3476583.55
+  eval: bucket 3 perplexity 815262.30
+global step 170700 learning rate 0.2107 step-time 3.04 perplexity 1.61
+  eval: bucket 0 perplexity 31892262.80
+  eval: bucket 1 perplexity 6949027.25
+  eval: bucket 2 perplexity 2256987.23
+  eval: bucket 3 perplexity 856026.89
+global step 171000 learning rate 0.2107 step-time 3.40 perplexity 1.73
+  eval: bucket 0 perplexity 19843795.50
+  eval: bucket 1 perplexity 8069150.20
+  eval: bucket 2 perplexity 2252508.17
+  eval: bucket 3 perplexity 784303.80
+global step 171300 learning rate 0.2086 step-time 3.24 perplexity 1.67
+  eval: bucket 0 perplexity 16218909.70
+  eval: bucket 1 perplexity 40704400.76
+  eval: bucket 2 perplexity 2899394.59
+  eval: bucket 3 perplexity 1196405.30
+global step 171600 learning rate 0.2086 step-time 3.20 perplexity 1.67
+  eval: bucket 0 perplexity 7277331.85
+  eval: bucket 1 perplexity 25771880.19
+  eval: bucket 2 perplexity 2930518.27
+  eval: bucket 3 perplexity 711992.35
+global step 171900 learning rate 0.2086 step-time 3.70 perplexity 1.78
+  eval: bucket 0 perplexity 15662802.06
+  eval: bucket 1 perplexity 12312647.48
+  eval: bucket 2 perplexity 3143474.49
+  eval: bucket 3 perplexity 853346.87
+global step 172200 learning rate 0.2065 step-time 3.17 perplexity 1.65
+  eval: bucket 0 perplexity 83312218.24
+  eval: bucket 1 perplexity 12992301.58
+  eval: bucket 2 perplexity 3849992.85
+  eval: bucket 3 perplexity 578712.11
+global step 172500 learning rate 0.2065 step-time 3.22 perplexity 1.66
+  eval: bucket 0 perplexity 6869509.76
+  eval: bucket 1 perplexity 28196996.65
+  eval: bucket 2 perplexity 1996593.91
+  eval: bucket 3 perplexity 898295.05
+global step 172800 learning rate 0.2065 step-time 2.92 perplexity 1.58
+  eval: bucket 0 perplexity 26685994.34
+  eval: bucket 1 perplexity 6920853.04
+  eval: bucket 2 perplexity 5482024.03
+  eval: bucket 3 perplexity 969648.53
+global step 173100 learning rate 0.2065 step-time 3.12 perplexity 1.63
+  eval: bucket 0 perplexity 7316824.28
+  eval: bucket 1 perplexity 30265909.31
+  eval: bucket 2 perplexity 2129684.84
+  eval: bucket 3 perplexity 1123289.77
+global step 173400 learning rate 0.2065 step-time 3.21 perplexity 1.63
+  eval: bucket 0 perplexity 51110487.79
+  eval: bucket 1 perplexity 30899428.46
+  eval: bucket 2 perplexity 3736380.39
+  eval: bucket 3 perplexity 792624.67
+global step 173700 learning rate 0.2065 step-time 3.42 perplexity 1.70
+  eval: bucket 0 perplexity 17218176.12
+  eval: bucket 1 perplexity 51105808.70
+  eval: bucket 2 perplexity 5078909.19
+  eval: bucket 3 perplexity 1519928.38
+global step 174000 learning rate 0.2044 step-time 3.15 perplexity 1.60
+  eval: bucket 0 perplexity 22918880.82
+  eval: bucket 1 perplexity 19146994.70
+  eval: bucket 2 perplexity 4208155.00
+  eval: bucket 3 perplexity 1032455.24
+global step 174300 learning rate 0.2044 step-time 3.37 perplexity 1.67
+  eval: bucket 0 perplexity 54676684.70
+  eval: bucket 1 perplexity 24643396.48
+  eval: bucket 2 perplexity 4582001.57
+  eval: bucket 3 perplexity 1186748.43
+global step 174600 learning rate 0.2044 step-time 3.48 perplexity 1.66
+  eval: bucket 0 perplexity 80002993.88
+  eval: bucket 1 perplexity 71708885.85
+  eval: bucket 2 perplexity 4079376.11
+  eval: bucket 3 perplexity 977577.97
+global step 174900 learning rate 0.2044 step-time 3.53 perplexity 1.68
+  eval: bucket 0 perplexity 25357084.73
+  eval: bucket 1 perplexity 19244421.43
+  eval: bucket 2 perplexity 9180890.25
+  eval: bucket 3 perplexity 813477.57
+global step 175200 learning rate 0.2024 step-time 3.39 perplexity 1.67
+  eval: bucket 0 perplexity 103958785.07
+  eval: bucket 1 perplexity 41797675.58
+  eval: bucket 2 perplexity 4096365.74
+  eval: bucket 3 perplexity 895167.63
+global step 175500 learning rate 0.2024 step-time 3.27 perplexity 1.65
+  eval: bucket 0 perplexity 191354675.90
+  eval: bucket 1 perplexity 9204771.45
+  eval: bucket 2 perplexity 5244825.72
+  eval: bucket 3 perplexity 1480764.18
+global step 175800 learning rate 0.2024 step-time 3.26 perplexity 1.66
+  eval: bucket 0 perplexity 11688238.39
+  eval: bucket 1 perplexity 27700604.61
+  eval: bucket 2 perplexity 5493333.53
+  eval: bucket 3 perplexity 1407559.21
+global step 176100 learning rate 0.2024 step-time 3.29 perplexity 1.64
+  eval: bucket 0 perplexity 54232564.89
+  eval: bucket 1 perplexity 31087473.70
+  eval: bucket 2 perplexity 6403404.71
+  eval: bucket 3 perplexity 918414.32
+global step 176400 learning rate 0.2024 step-time 3.00 perplexity 1.56
+  eval: bucket 0 perplexity 25448270.85
+  eval: bucket 1 perplexity 33407062.17
+  eval: bucket 2 perplexity 5038356.44
+  eval: bucket 3 perplexity 1447830.00
+global step 176700 learning rate 0.2024 step-time 3.25 perplexity 1.62
+  eval: bucket 0 perplexity 56840010.03
+  eval: bucket 1 perplexity 48550375.54
+  eval: bucket 2 perplexity 5991772.90
+  eval: bucket 3 perplexity 1284612.35
+global step 177000 learning rate 0.2024 step-time 3.09 perplexity 1.58
+  eval: bucket 0 perplexity 41788588.18
+  eval: bucket 1 perplexity 19161315.89
+  eval: bucket 2 perplexity 3468598.99
+  eval: bucket 3 perplexity 1120809.35
+global step 177300 learning rate 0.2024 step-time 3.28 perplexity 1.65
+  eval: bucket 0 perplexity 64638923.37
+  eval: bucket 1 perplexity 14667355.56
+  eval: bucket 2 perplexity 2564264.17
+  eval: bucket 3 perplexity 1421097.10
+global step 177600 learning rate 0.2003 step-time 3.29 perplexity 1.64
+  eval: bucket 0 perplexity 161250550.07
+  eval: bucket 1 perplexity 39050778.99
+  eval: bucket 2 perplexity 3472067.42
+  eval: bucket 3 perplexity 1002211.34
+global step 177900 learning rate 0.2003 step-time 3.38 perplexity 1.65
+  eval: bucket 0 perplexity 24800463.72
+  eval: bucket 1 perplexity 33383621.84
+  eval: bucket 2 perplexity 4437708.97
+  eval: bucket 3 perplexity 1776852.60
+global step 178200 learning rate 0.1983 step-time 3.31 perplexity 1.62
+  eval: bucket 0 perplexity 35700544.49
+  eval: bucket 1 perplexity 31152053.27
+  eval: bucket 2 perplexity 5330189.36
+  eval: bucket 3 perplexity 986540.83
