@@ -31,4 +31,4 @@ sess, model, enc_vocab, rev_dec_vocab = execute.init_session(sess, conf='seq2seq
 
 # start app
 if (__name__ == "__main__"): 
-    app.run(port = 5000) 
+    app.run(host = "10.0.0.4", port = 8000) 
