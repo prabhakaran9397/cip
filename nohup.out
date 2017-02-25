@@ -1559,3 +1559,403 @@ global step 249600 learning rate 0.1130 step-time 3.36 perplexity 1.28
   eval: bucket 1 perplexity 3655737451.55
   eval: bucket 2 perplexity 156073122.57
   eval: bucket 3 perplexity 98463941.03
+global step 249900 learning rate 0.1130 step-time 3.36 perplexity 1.27
+  eval: bucket 0 perplexity 12338385196.09
+  eval: bucket 1 perplexity 5879556447.22
+  eval: bucket 2 perplexity 321620374.33
+  eval: bucket 3 perplexity 111941112.00
+global step 250200 learning rate 0.1130 step-time 3.33 perplexity 1.28
+  eval: bucket 0 perplexity 3929476624.25
+  eval: bucket 1 perplexity 5663801921.92
+  eval: bucket 2 perplexity 262741338.67
+  eval: bucket 3 perplexity 49518334.17
+global step 250500 learning rate 0.1118 step-time 3.34 perplexity 1.28
+  eval: bucket 0 perplexity 1286838575.13
+  eval: bucket 1 perplexity 7792207834.09
+  eval: bucket 2 perplexity 176480995.60
+  eval: bucket 3 perplexity 62048097.61
+global step 250800 learning rate 0.1118 step-time 3.34 perplexity 1.29
+  eval: bucket 0 perplexity 7862405414.55
+  eval: bucket 1 perplexity 5685589849.13
+  eval: bucket 2 perplexity 1061196991.62
+  eval: bucket 3 perplexity 81171461.16
+global step 251100 learning rate 0.1107 step-time 3.40 perplexity 1.27
+  eval: bucket 0 perplexity 17820524904.54
+  eval: bucket 1 perplexity 3209440100.02
+  eval: bucket 2 perplexity 388416156.32
+  eval: bucket 3 perplexity 59893193.48
+global step 251400 learning rate 0.1107 step-time 3.37 perplexity 1.28
+  eval: bucket 0 perplexity 26930139318.52
+  eval: bucket 1 perplexity 8259524642.88
+  eval: bucket 2 perplexity 461704502.04
+  eval: bucket 3 perplexity 75739677.99
+global step 251700 learning rate 0.1107 step-time 3.44 perplexity 1.31
+  eval: bucket 0 perplexity 1383022073.34
+  eval: bucket 1 perplexity 4531201303.46
+  eval: bucket 2 perplexity 418882003.22
+  eval: bucket 3 perplexity 133762763.76
+global step 252000 learning rate 0.1096 step-time 3.25 perplexity 1.26
+  eval: bucket 0 perplexity 9881190619.45
+  eval: bucket 1 perplexity 906712241.21
+  eval: bucket 2 perplexity 537073988.05
+  eval: bucket 3 perplexity 92730073.89
+global step 252300 learning rate 0.1096 step-time 3.15 perplexity 1.25
+  eval: bucket 0 perplexity 11840568919.36
+  eval: bucket 1 perplexity 2174616699.01
+  eval: bucket 2 perplexity 303593565.40
+  eval: bucket 3 perplexity 64879289.50
+global step 252600 learning rate 0.1096 step-time 3.25 perplexity 1.27
+  eval: bucket 0 perplexity 17205005339.19
+  eval: bucket 1 perplexity 3453862537.93
+  eval: bucket 2 perplexity 1430430961.75
+  eval: bucket 3 perplexity 49967479.14
+global step 252900 learning rate 0.1096 step-time 3.46 perplexity 1.29
+  eval: bucket 0 perplexity 3884837767.31
+  eval: bucket 1 perplexity 10601556454.31
+  eval: bucket 2 perplexity 864877379.56
+  eval: bucket 3 perplexity 44996921.97
+global step 253200 learning rate 0.1085 step-time 3.17 perplexity 1.26
+  eval: bucket 0 perplexity 7115417238.49
+  eval: bucket 1 perplexity 11673507190.47
+  eval: bucket 2 perplexity 463645961.72
+  eval: bucket 3 perplexity 45825632.61
+global step 253500 learning rate 0.1085 step-time 3.44 perplexity 1.29
+  eval: bucket 0 perplexity 184184399208.32
+  eval: bucket 1 perplexity 1401506972.82
+  eval: bucket 2 perplexity 1121426908.50
+  eval: bucket 3 perplexity 62223024.42
+global step 253800 learning rate 0.1085 step-time 3.40 perplexity 1.28
+  eval: bucket 0 perplexity 5960686296.37
+  eval: bucket 1 perplexity 13824873856.51
+  eval: bucket 2 perplexity 841128349.62
+  eval: bucket 3 perplexity 52814240.16
+global step 254100 learning rate 0.1085 step-time 3.24 perplexity 1.25
+  eval: bucket 0 perplexity 18205411849.77
+  eval: bucket 1 perplexity 33070598993.88
+  eval: bucket 2 perplexity 191005708.56
+  eval: bucket 3 perplexity 86741778.29
+global step 254400 learning rate 0.1085 step-time 3.49 perplexity 1.28
+  eval: bucket 0 perplexity 1004064023.65
+  eval: bucket 1 perplexity 6373755618.98
+  eval: bucket 2 perplexity 1816644921.18
+  eval: bucket 3 perplexity 84810826.33
+global step 254700 learning rate 0.1085 step-time 3.29 perplexity 1.26
+  eval: bucket 0 perplexity 40768953131.48
+  eval: bucket 1 perplexity 17468746365.05
+  eval: bucket 2 perplexity 315864432.82
+  eval: bucket 3 perplexity 112252415.68
+global step 255000 learning rate 0.1085 step-time 3.21 perplexity 1.26
+  eval: bucket 0 perplexity 1313260794.54
+  eval: bucket 1 perplexity 3626465068.53
+  eval: bucket 2 perplexity 920871436.85
+  eval: bucket 3 perplexity 92053204.12
+global step 255300 learning rate 0.1085 step-time 3.04 perplexity 1.24
+  eval: bucket 0 perplexity 5374062655.64
+  eval: bucket 1 perplexity 20508560064.83
+  eval: bucket 2 perplexity 542208015.56
+  eval: bucket 3 perplexity 181654351.54
+global step 255600 learning rate 0.1085 step-time 3.26 perplexity 1.27
+  eval: bucket 0 perplexity 10793346751.81
+  eval: bucket 1 perplexity 9736313008.12
+  eval: bucket 2 perplexity 1218361246.90
+  eval: bucket 3 perplexity 81065013.29
+global step 255900 learning rate 0.1074 step-time 3.44 perplexity 1.28
+  eval: bucket 0 perplexity 34504469586.02
+  eval: bucket 1 perplexity 8107777556.75
+  eval: bucket 2 perplexity 525654346.60
+  eval: bucket 3 perplexity 117224032.92
+global step 256200 learning rate 0.1064 step-time 3.46 perplexity 1.27
+  eval: bucket 0 perplexity 6814267367.02
+  eval: bucket 1 perplexity 7102549457.13
+  eval: bucket 2 perplexity 929895960.30
+  eval: bucket 3 perplexity 92038281.24
+global step 256500 learning rate 0.1064 step-time 3.40 perplexity 1.27
+  eval: bucket 0 perplexity 23607954525.20
+  eval: bucket 1 perplexity 3811348038.16
+  eval: bucket 2 perplexity 616919827.24
+  eval: bucket 3 perplexity 80740808.30
+global step 256800 learning rate 0.1064 step-time 3.21 perplexity 1.24
+  eval: bucket 0 perplexity 1216642818.57
+  eval: bucket 1 perplexity 7106940053.96
+  eval: bucket 2 perplexity 512656533.44
+  eval: bucket 3 perplexity 101595335.20
+global step 257100 learning rate 0.1064 step-time 3.36 perplexity 1.26
+  eval: bucket 0 perplexity 1829807306.87
+  eval: bucket 1 perplexity 19753459295.59
+  eval: bucket 2 perplexity 553273446.20
+  eval: bucket 3 perplexity 154714773.86
+global step 257400 learning rate 0.1064 step-time 3.34 perplexity 1.27
+  eval: bucket 0 perplexity 7399752360.70
+  eval: bucket 1 perplexity 5863989126.60
+  eval: bucket 2 perplexity 739561437.81
+  eval: bucket 3 perplexity 86491983.07
+global step 257700 learning rate 0.1064 step-time 3.19 perplexity 1.24
+  eval: bucket 0 perplexity 12149645093.54
+  eval: bucket 1 perplexity 9264177603.50
+  eval: bucket 2 perplexity 168931439.90
+  eval: bucket 3 perplexity 53024185.49
+global step 258000 learning rate 0.1064 step-time 3.30 perplexity 1.26
+  eval: bucket 0 perplexity 5104808970.57
+  eval: bucket 1 perplexity 6127640435.79
+  eval: bucket 2 perplexity 677734829.59
+  eval: bucket 3 perplexity 69164094.23
+global step 258300 learning rate 0.1064 step-time 3.25 perplexity 1.25
+  eval: bucket 0 perplexity 7423176101.10
+  eval: bucket 1 perplexity 4844220072.13
+  eval: bucket 2 perplexity 828498622.70
+  eval: bucket 3 perplexity 80213238.45
+global step 258600 learning rate 0.1064 step-time 3.23 perplexity 1.24
+  eval: bucket 0 perplexity 4814752529.96
+  eval: bucket 1 perplexity 2312793184.40
+  eval: bucket 2 perplexity 636600094.77
+  eval: bucket 3 perplexity 110783928.25
+global step 258900 learning rate 0.1064 step-time 3.36 perplexity 1.26
+  eval: bucket 0 perplexity 63590658773.51
+  eval: bucket 1 perplexity 7193334494.68
+  eval: bucket 2 perplexity 724732936.67
+  eval: bucket 3 perplexity 188958383.10
+global step 259200 learning rate 0.1064 step-time 3.22 perplexity 1.25
+  eval: bucket 0 perplexity 31479598759.45
+  eval: bucket 1 perplexity 6651668383.75
+  eval: bucket 2 perplexity 635990848.89
+  eval: bucket 3 perplexity 169398969.63
+global step 259500 learning rate 0.1064 step-time 3.31 perplexity 1.26
+  eval: bucket 0 perplexity 77277538465.92
+  eval: bucket 1 perplexity 9455928730.49
+  eval: bucket 2 perplexity 1175819299.90
+  eval: bucket 3 perplexity 187278815.16
+global step 259800 learning rate 0.1053 step-time 3.38 perplexity 1.27
+  eval: bucket 0 perplexity 205383601467.00
+  eval: bucket 1 perplexity 9448717180.73
+  eval: bucket 2 perplexity 940652723.98
+  eval: bucket 3 perplexity 87539569.41
+global step 260100 learning rate 0.1042 step-time 3.16 perplexity 1.24
+  eval: bucket 0 perplexity 12231490639.70
+  eval: bucket 1 perplexity 4844404867.98
+  eval: bucket 2 perplexity 540224991.46
+  eval: bucket 3 perplexity 68991889.47
+global step 260400 learning rate 0.1042 step-time 3.21 perplexity 1.24
+  eval: bucket 0 perplexity 10011845305.84
+  eval: bucket 1 perplexity 9294868136.16
+  eval: bucket 2 perplexity 358630617.92
+  eval: bucket 3 perplexity 116898718.75
+global step 260700 learning rate 0.1042 step-time 3.45 perplexity 1.26
+  eval: bucket 0 perplexity 39380771566.12
+  eval: bucket 1 perplexity 4447341581.42
+  eval: bucket 2 perplexity 968576073.47
+  eval: bucket 3 perplexity 130595136.38
+global step 261000 learning rate 0.1042 step-time 3.21 perplexity 1.25
+  eval: bucket 0 perplexity 26223294098.28
+  eval: bucket 1 perplexity 9811609092.41
+  eval: bucket 2 perplexity 652781439.90
+  eval: bucket 3 perplexity 185881307.54
+global step 261300 learning rate 0.1042 step-time 3.05 perplexity 1.22
+  eval: bucket 0 perplexity 23896353947.21
+  eval: bucket 1 perplexity 31421411310.60
+  eval: bucket 2 perplexity 383159454.96
+  eval: bucket 3 perplexity 96281775.51
+global step 261600 learning rate 0.1042 step-time 3.45 perplexity 1.27
+  eval: bucket 0 perplexity 10038768721.58
+  eval: bucket 1 perplexity 14817164719.29
+  eval: bucket 2 perplexity 546035516.47
+  eval: bucket 3 perplexity 92119069.26
+global step 261900 learning rate 0.1032 step-time 3.32 perplexity 1.25
+  eval: bucket 0 perplexity 9122254816.46
+  eval: bucket 1 perplexity 14857123739.88
+  eval: bucket 2 perplexity 961346553.99
+  eval: bucket 3 perplexity 125182200.50
+global step 262200 learning rate 0.1032 step-time 3.34 perplexity 1.25
+  eval: bucket 0 perplexity 41298963550.41
+  eval: bucket 1 perplexity 85379838264.68
+  eval: bucket 2 perplexity 752600388.54
+  eval: bucket 3 perplexity 160100395.05
+global step 262500 learning rate 0.1032 step-time 3.54 perplexity 1.26
+  eval: bucket 0 perplexity 36382517300.57
+  eval: bucket 1 perplexity 7068843376.62
+  eval: bucket 2 perplexity 1246683034.40
+  eval: bucket 3 perplexity 134098939.50
+global step 262800 learning rate 0.1032 step-time 3.27 perplexity 1.25
+  eval: bucket 0 perplexity 36021596235.47
+  eval: bucket 1 perplexity 11278369180.17
+  eval: bucket 2 perplexity 880224781.38
+  eval: bucket 3 perplexity 138794187.91
+global step 263100 learning rate 0.1032 step-time 3.36 perplexity 1.25
+  eval: bucket 0 perplexity 3635364228.89
+  eval: bucket 1 perplexity 11734987566.07
+  eval: bucket 2 perplexity 908569805.14
+  eval: bucket 3 perplexity 86165136.02
+global step 263400 learning rate 0.1032 step-time 3.48 perplexity 1.26
+  eval: bucket 0 perplexity 1771995251.31
+  eval: bucket 1 perplexity 7026915521.75
+  eval: bucket 2 perplexity 808209695.98
+  eval: bucket 3 perplexity 105889757.59
+global step 263700 learning rate 0.1022 step-time 2.97 perplexity 1.21
+  eval: bucket 0 perplexity 83919180932.97
+  eval: bucket 1 perplexity 3764186506.12
+  eval: bucket 2 perplexity 1119584646.68
+  eval: bucket 3 perplexity 140204634.23
+global step 264000 learning rate 0.1022 step-time 3.40 perplexity 1.25
+  eval: bucket 0 perplexity 22582061218.33
+  eval: bucket 1 perplexity 2595234784.82
+  eval: bucket 2 perplexity 602063643.79
+  eval: bucket 3 perplexity 195801002.00
+global step 264300 learning rate 0.1022 step-time 3.31 perplexity 1.25
+  eval: bucket 0 perplexity 188347685168.72
+  eval: bucket 1 perplexity 8963594443.42
+  eval: bucket 2 perplexity 824466224.77
+  eval: bucket 3 perplexity 73576082.61
+global step 264600 learning rate 0.1022 step-time 3.18 perplexity 1.24
+  eval: bucket 0 perplexity 17419204773.09
+  eval: bucket 1 perplexity 3057239895.18
+  eval: bucket 2 perplexity 1808541148.07
+  eval: bucket 3 perplexity 152134966.98
+global step 264900 learning rate 0.1022 step-time 3.13 perplexity 1.22
+  eval: bucket 0 perplexity 56525701936.50
+  eval: bucket 1 perplexity 5916263023.27
+  eval: bucket 2 perplexity 1146270376.35
+  eval: bucket 3 perplexity 130817763.70
+global step 265200 learning rate 0.1022 step-time 3.38 perplexity 1.23
+  eval: bucket 0 perplexity 12140587590.28
+  eval: bucket 1 perplexity 10679998874.17
+  eval: bucket 2 perplexity 686302095.15
+  eval: bucket 3 perplexity 134044726.49
+global step 265500 learning rate 0.1022 step-time 3.37 perplexity 1.25
+  eval: bucket 0 perplexity 116793704148.76
+  eval: bucket 1 perplexity 2456692466.99
+  eval: bucket 2 perplexity 273413676.76
+  eval: bucket 3 perplexity 126903250.48
+global step 265800 learning rate 0.1012 step-time 3.33 perplexity 1.24
+  eval: bucket 0 perplexity 13843898879.01
+  eval: bucket 1 perplexity 4045567832.02
+  eval: bucket 2 perplexity 846392501.00
+  eval: bucket 3 perplexity 192322487.44
+global step 266100 learning rate 0.1012 step-time 3.21 perplexity 1.23
+  eval: bucket 0 perplexity 67362054184.35
+  eval: bucket 1 perplexity 16632430733.33
+  eval: bucket 2 perplexity 1035405058.50
+  eval: bucket 3 perplexity 265959154.91
+global step 266400 learning rate 0.1012 step-time 3.14 perplexity 1.23
+  eval: bucket 0 perplexity 162804343791.33
+  eval: bucket 1 perplexity 3563112505.29
+  eval: bucket 2 perplexity 452127092.76
+  eval: bucket 3 perplexity 218048842.71
+global step 266700 learning rate 0.1012 step-time 3.30 perplexity 1.25
+  eval: bucket 0 perplexity 70667035402.28
+  eval: bucket 1 perplexity 7980038280.17
+  eval: bucket 2 perplexity 1115241071.13
+  eval: bucket 3 perplexity 102187689.89
+global step 267000 learning rate 0.1001 step-time 3.50 perplexity 1.25
+  eval: bucket 0 perplexity 11720358398.25
+  eval: bucket 1 perplexity 2375718669.67
+  eval: bucket 2 perplexity 1809690202.60
+  eval: bucket 3 perplexity 91153580.11
+global step 267300 learning rate 0.0991 step-time 3.51 perplexity 1.26
+  eval: bucket 0 perplexity 3496755833.72
+  eval: bucket 1 perplexity 8269124277.11
+  eval: bucket 2 perplexity 1387627593.51
+  eval: bucket 3 perplexity 184543852.21
+global step 267600 learning rate 0.0981 step-time 3.10 perplexity 1.23
+  eval: bucket 0 perplexity 7357699950.43
+  eval: bucket 1 perplexity 14498295177.83
+  eval: bucket 2 perplexity 1267233584.13
+  eval: bucket 3 perplexity 244375053.20
+global step 267900 learning rate 0.0981 step-time 3.42 perplexity 1.26
+  eval: bucket 0 perplexity 16979734938.17
+  eval: bucket 1 perplexity 61555231604.06
+  eval: bucket 2 perplexity 901445956.72
+  eval: bucket 3 perplexity 201537628.49
+global step 268200 learning rate 0.0972 step-time 3.47 perplexity 1.26
+  eval: bucket 0 perplexity 48638223590.87
+  eval: bucket 1 perplexity 3364619298.42
+  eval: bucket 2 perplexity 3298195162.51
+  eval: bucket 3 perplexity 181749311.37
+global step 268500 learning rate 0.0972 step-time 3.12 perplexity 1.21
+  eval: bucket 0 perplexity 12945347628.76
+  eval: bucket 1 perplexity 15046741022.74
+  eval: bucket 2 perplexity 1506965289.92
+  eval: bucket 3 perplexity 217779093.74
+global step 268800 learning rate 0.0972 step-time 3.55 perplexity 1.25
+  eval: bucket 0 perplexity 180463890000.49
+  eval: bucket 1 perplexity 57884715620.93
+  eval: bucket 2 perplexity 3798437390.49
+  eval: bucket 3 perplexity 119438982.55
+global step 269100 learning rate 0.0972 step-time 3.51 perplexity 1.25
+  eval: bucket 0 perplexity 80210454043.46
+  eval: bucket 1 perplexity 15076560489.09
+  eval: bucket 2 perplexity 1019858224.12
+  eval: bucket 3 perplexity 156825994.03
+global step 269400 learning rate 0.0972 step-time 3.08 perplexity 1.22
+  eval: bucket 0 perplexity 7247084241.04
+  eval: bucket 1 perplexity 12478279443.98
+  eval: bucket 2 perplexity 1567309818.75
+  eval: bucket 3 perplexity 198739184.22
+global step 269700 learning rate 0.0972 step-time 3.53 perplexity 1.24
+  eval: bucket 0 perplexity 82433183588.73
+  eval: bucket 1 perplexity 6425191540.62
+  eval: bucket 2 perplexity 871660696.92
+  eval: bucket 3 perplexity 116301583.74
+global step 270000 learning rate 0.0972 step-time 3.36 perplexity 1.24
+  eval: bucket 0 perplexity 8925328459.01
+  eval: bucket 1 perplexity 9678600351.43
+  eval: bucket 2 perplexity 984316939.45
+  eval: bucket 3 perplexity 147404775.01
+global step 270300 learning rate 0.0972 step-time 3.40 perplexity 1.25
+  eval: bucket 0 perplexity 26961387453.71
+  eval: bucket 1 perplexity 19830885622.24
+  eval: bucket 2 perplexity 925569516.76
+  eval: bucket 3 perplexity 204204809.83
+global step 270600 learning rate 0.0962 step-time 3.18 perplexity 1.22
+  eval: bucket 0 perplexity 19160723839.43
+  eval: bucket 1 perplexity 29291662945.25
+  eval: bucket 2 perplexity 2750840316.90
+  eval: bucket 3 perplexity 233163846.53
+global step 270900 learning rate 0.0962 step-time 3.25 perplexity 1.24
+  eval: bucket 0 perplexity 9992634009.30
+  eval: bucket 1 perplexity 33607470690.87
+  eval: bucket 2 perplexity 569854992.08
+  eval: bucket 3 perplexity 181842586.65
+global step 271200 learning rate 0.0962 step-time 3.42 perplexity 1.23
+  eval: bucket 0 perplexity 4835514944.73
+  eval: bucket 1 perplexity 107131577091.36
+  eval: bucket 2 perplexity 3837989184.42
+  eval: bucket 3 perplexity 128138345.60
+global step 271500 learning rate 0.0962 step-time 3.58 perplexity 1.26
+  eval: bucket 0 perplexity 6485795072.83
+  eval: bucket 1 perplexity 15878557857.66
+  eval: bucket 2 perplexity 5785554624.85
+  eval: bucket 3 perplexity 172358953.31
+global step 271800 learning rate 0.0952 step-time 3.57 perplexity 1.25
+  eval: bucket 0 perplexity 64145417258.24
+  eval: bucket 1 perplexity 6844853191.48
+  eval: bucket 2 perplexity 844149894.75
+  eval: bucket 3 perplexity 229025491.54
+global step 272100 learning rate 0.0952 step-time 3.20 perplexity 1.22
+  eval: bucket 0 perplexity 4786888349.23
+  eval: bucket 1 perplexity 7491034997.48
+  eval: bucket 2 perplexity 1155578031.74
+  eval: bucket 3 perplexity 196097006.45
+global step 272400 learning rate 0.0952 step-time 3.17 perplexity 1.22
+  eval: bucket 0 perplexity 11235470432.62
+  eval: bucket 1 perplexity 8345735105.31
+  eval: bucket 2 perplexity 1025245112.96
+  eval: bucket 3 perplexity 242256504.78
+global step 272700 learning rate 0.0952 step-time 3.33 perplexity 1.23
+  eval: bucket 0 perplexity 68793577050.47
+  eval: bucket 1 perplexity 29137924104.53
+  eval: bucket 2 perplexity 1116383937.77
+  eval: bucket 3 perplexity 225527683.86
+global step 273000 learning rate 0.0952 step-time 3.16 perplexity 1.21
+  eval: bucket 0 perplexity 18316798785.46
+  eval: bucket 1 perplexity 24092596731.20
+  eval: bucket 2 perplexity 1573510121.67
+  eval: bucket 3 perplexity 151054152.50
+global step 273300 learning rate 0.0952 step-time 3.13 perplexity 1.21
+  eval: bucket 0 perplexity 13137349642.49
+  eval: bucket 1 perplexity 10751062418.45
+  eval: bucket 2 perplexity 3116444634.21
+  eval: bucket 3 perplexity 399191062.69
+global step 273600 learning rate 0.0952 step-time 3.17 perplexity 1.21
+  eval: bucket 0 perplexity 231705195019.78
+  eval: bucket 1 perplexity 21412873599.92
+  eval: bucket 2 perplexity 905958529.11
+  eval: bucket 3 perplexity 537608984.53
