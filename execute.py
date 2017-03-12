@@ -22,7 +22,9 @@ import os
 import random
 import sys
 import time
-
+import aiml
+bot=aiml.Kernel()  
+bot.learn("rescue/*.aiml")
 import numpy as np
 from six.moves import xrange  # pylint: disable=redefined-builtin
 import tensorflow as tf
@@ -239,8 +241,13 @@ def decode():
       # If there is an EOS symbol in outputs, cut them at that point.
       if data_utils.EOS_ID in outputs:
         outputs = outputs[:outputs.index(data_utils.EOS_ID)]
-      # Print out French sentence corresponding to outputs.
-      print(" ".join([tf.compat.as_str(rev_dec_vocab[output]) for output in outputs]))
+
+      dc = [tf.compat.as_str(rev_dec_vocab[output]) for output in outputs]
+      if dc.count('_UNK') == 0:
+        print(" ".join(dc))
+      else:
+        print(bot.respond(sentence))      
+
       print("> ", end="")
       sys.stdout.flush()
       sentence = sys.stdin.readline()
@@ -303,7 +310,12 @@ def decode_line(sess, model, enc_vocab, rev_dec_vocab, sentence):
     if data_utils.EOS_ID in outputs:
         outputs = outputs[:outputs.index(data_utils.EOS_ID)]
 
-    return " ".join([tf.compat.as_str(rev_dec_vocab[output]) for output in outputs])
+    decoded = [tf.compat.as_str(rev_dec_vocab[output]) for output in outputs]
+    if decoded.count('_UNK') == 0:
+        reply = " ".join(decoded)
+    else:
+        reply = bot.respond(sentence)
+    return reply
 
 if __name__ == '__main__':
     if len(sys.argv) - 1:
