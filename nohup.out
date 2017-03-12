@@ -304,3 +304,8 @@ global step 465600 learning rate 0.0203 step-time 4.42 perplexity 1.05
   eval: bucket 1 perplexity 20099686046194.88
   eval: bucket 2 perplexity 8455922624697.12
   eval: bucket 3 perplexity 273392713611.72
+global step 465900 learning rate 0.0203 step-time 5.10 perplexity 1.07
+  eval: bucket 0 perplexity 28288066441214.38
+  eval: bucket 1 perplexity 1931760975845963.25
+  eval: bucket 2 perplexity 1988681335228.12
+  eval: bucket 3 perplexity 584578122125.74
