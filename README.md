@@ -2,4 +2,4 @@
 
 `sudo ./cip_installer.sh`
 
-`python app.py`
+`sudo python app.py`

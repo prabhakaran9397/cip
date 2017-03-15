@@ -237,17 +237,20 @@ def decode():
       _, _, output_logits = model.step(sess, encoder_inputs, decoder_inputs,
                                        target_weights, bucket_id, True)
       # This is a greedy decoder - outputs are just argmaxes of output_logits.
+      # print(output_logits)
       outputs = [int(np.argmax(logit, axis=1)) for logit in output_logits]
+      # print(outputs)
       # If there is an EOS symbol in outputs, cut them at that point.
       if data_utils.EOS_ID in outputs:
         outputs = outputs[:outputs.index(data_utils.EOS_ID)]
 
       dc = [tf.compat.as_str(rev_dec_vocab[output]) for output in outputs]
       if dc.count('_UNK') == 0:
-        print(" ".join(dc))
+        reply = " ".join(dc)
       else:
-        print(bot.respond(sentence))      
-
+        reply = bot.respond(sentence)
+	#reply = 'I DON\'T KNOW'
+      print(reply)
       print("> ", end="")
       sys.stdout.flush()
       sentence = sys.stdin.readline()
@@ -315,6 +318,7 @@ def decode_line(sess, model, enc_vocab, rev_dec_vocab, sentence):
         reply = " ".join(decoded)
     else:
         reply = bot.respond(sentence)
+	#reply = 'I DON\'T KNOW'
     return reply
 
 if __name__ == '__main__':
