@@ -248,7 +248,7 @@ def decode():
       if dc.count('_UNK') == 0:
         reply = " ".join(dc)
       else:
-        reply = bot.respond(sentence)
+      	reply = bot.respond(sentence)
 	#reply = 'I DON\'T KNOW'
       print(reply)
       print("> ", end="")
@@ -317,7 +317,7 @@ def decode_line(sess, model, enc_vocab, rev_dec_vocab, sentence):
     if decoded.count('_UNK') == 0:
         reply = " ".join(decoded)
     else:
-        reply = bot.respond(sentence)
+    	reply = bot.respond(sentence)
 	#reply = 'I DON\'T KNOW'
     return reply
 
