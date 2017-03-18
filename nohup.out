@@ -1282,3 +1282,117 @@ global step 511800 learning rate 0.0143 step-time 4.63 perplexity 1.06
   eval: bucket 1 perplexity 90164084074956.08
   eval: bucket 2 perplexity 22218469932415.80
   eval: bucket 3 perplexity 1169259387998.85
+PARSE ERROR: Unexpected text inside <random> element (line 3383, column 0)
+PARSE ERROR: Unexpected <category> tag (line 18, column 0)
+PARSE ERROR: Unexpected </learn> tag (line 22, column 0)
+PARSE ERROR: Unexpected </template> tag (line 35, column 0)
+PARSE ERROR: Unexpected </category> tag (line 36, column 0)
+PARSE ERROR: <random> elements can only contain <li> subelements (line 443, column 495)
+PARSE ERROR: <random> elements can only contain <li> subelements (line 1733, column 19)
+PARSE ERROR: Unexpected text inside <random> element (line 4311, column 262)
+PARSE ERROR: Unexpected text inside <random> element (line 4848, column 172)
+PARSE ERROR: Unexpected text inside <random> element (line 8844, column 351)
+PARSE ERROR: Unexpected <category> tag (line 100, column 1)
+PARSE ERROR: Unexpected </learn> tag (line 108, column 0)
+PARSE ERROR: Unexpected </li> tag (line 110, column 0)
+PARSE ERROR: Unexpected </condition> tag (line 128, column 0)
+PARSE ERROR: Unexpected </template> tag (line 129, column 0)
+PARSE ERROR: Unexpected </category> tag (line 130, column 0)
+PARSE ERROR: Unexpected <category> tag (line 158, column 1)
+PARSE ERROR: Unexpected </learn> tag (line 166, column 0)
+PARSE ERROR: Unexpected </li> tag (line 168, column 0)
+PARSE ERROR: Unexpected </condition> tag (line 173, column 0)
+PARSE ERROR: Unexpected </template> tag (line 174, column 0)
+PARSE ERROR: Unexpected </category> tag (line 175, column 0)
+PARSE ERROR: <random> elements can only contain <li> subelements (line 3374, column 125)
+PARSE ERROR: Unexpected <category> tag (line 40, column 0)
+PARSE ERROR: Unexpected </category> tag (line 43, column 0)
+PARSE ERROR: Unexpected </category> tag (line 104, column 0)
+PARSE ERROR: Unexpected </category> tag (line 144, column 0)
+WARNING:tensorflow:From /home/prabhakaran9397/cip/seq2seq_model.py:166 in __init__.: all_variables (from tensorflow.python.ops.variables) is deprecated and will be removed after 2017-03-02.
+Instructions for updating:
+Please use tf.global_variables instead.
+Loading rescue/bot_profile.aiml... done (0.02 seconds)
+Loading rescue/atomic.aiml... done (0.19 seconds)
+Loading rescue/biography.aiml... done (0.04 seconds)
+Loading rescue/food.aiml... done (0.00 seconds)
+Loading rescue/music.aiml... done (0.00 seconds)
+Loading rescue/primitive-math.aiml... done (0.00 seconds)
+Loading rescue/mp0.aiml... done (0.37 seconds)
+Loading rescue/astrology.aiml... done (0.00 seconds)
+Loading rescue/continuation.aiml... done (0.00 seconds)
+Loading rescue/primeminister.aiml... done (0.00 seconds)
+Loading rescue/date.aiml... done (0.00 seconds)
+Loading rescue/wallace.aiml... done (0.05 seconds)
+Loading rescue/personality.aiml... done (0.01 seconds)
+Loading rescue/reductions-update.aiml... done (0.00 seconds)
+Loading rescue/alice.aiml... done (0.02 seconds)
+Loading rescue/mp2.aiml... done (0.45 seconds)
+Loading rescue/bot.aiml... done (0.22 seconds)
+Loading rescue/imponderables.aiml... done (0.00 seconds)
+Loading rescue/client.aiml... done (0.09 seconds)
+Loading rescue/default.aiml... done (0.42 seconds)
+Loading rescue/geography.aiml... done (0.08 seconds)
+Loading rescue/badanswer.aiml... done (0.00 seconds)
+Loading rescue/religion.aiml... done (0.02 seconds)
+Loading rescue/update1.aiml... done (0.11 seconds)
+Loading rescue/mp3.aiml... done (0.45 seconds)
+Loading rescue/emotion.aiml... done (0.01 seconds)
+Loading rescue/humor.aiml... done (0.00 seconds)
+Loading rescue/politics.aiml... done (0.00 seconds)
+Loading rescue/ai.aiml... done (0.15 seconds)
+Loading rescue/pickup.aiml... done (0.00 seconds)
+Loading rescue/interjection.aiml... done (0.00 seconds)
+Loading rescue/mp4.aiml... done (0.31 seconds)
+Loading rescue/psychology.aiml... done (0.05 seconds)
+Loading rescue/that.aiml... done (0.11 seconds)
+Loading rescue/pyschology.aiml... done (0.04 seconds)
+Loading rescue/history.aiml... done (0.00 seconds)
+Loading rescue/reduction4.safe.aiml... done (0.45 seconds)
+Loading rescue/money.aiml... done (0.00 seconds)
+Loading rescue/sports.aiml... done (0.00 seconds)
+Loading rescue/drugs.aiml... done (0.00 seconds)
+Loading rescue/sex.aiml... done (0.01 seconds)
+Loading rescue/client_profile.aiml... done (0.02 seconds)
+Loading rescue/xfind.aiml... done (0.00 seconds)
+Loading rescue/movies.aiml... done (0.00 seconds)
+Loading rescue/stories.aiml... done (0.03 seconds)
+Loading rescue/iu.aiml... done (0.00 seconds)
+Loading rescue/reduction0.safe.aiml... done (0.49 seconds)
+Loading rescue/update_mccormick.aiml... done (0.01 seconds)
+Loading rescue/salutations.aiml... done (0.01 seconds)
+Loading rescue/mp6.aiml... done (0.42 seconds)
+Loading rescue/reduction3.safe.aiml... done (0.26 seconds)
+Loading rescue/mp5.aiml... done (0.34 seconds)
+Loading rescue/reduction2.safe.aiml... done (0.54 seconds)
+Loading rescue/knowledge.aiml... done (0.13 seconds)
+Loading rescue/phone.aiml... done (0.00 seconds)
+Loading rescue/stack.aiml... done (0.00 seconds)
+Loading rescue/science.aiml... done (0.00 seconds)
+Loading rescue/inquiry.aiml... done (0.00 seconds)
+Loading rescue/gossip.aiml... done (0.00 seconds)
+Loading rescue/reduction.names.aiml... done (0.30 seconds)
+Loading rescue/literature.aiml... done (0.00 seconds)
+Loading rescue/reduction1.safe.aiml... done (0.40 seconds)
+Loading rescue/loebner10.aiml... done (0.00 seconds)
+Loading rescue/numbers.aiml... done (0.01 seconds)
+Loading rescue/mp1.aiml... done (0.72 seconds)
+Loading rescue/computers.aiml... done (0.01 seconds)
+
+>> Mode : train
+
+Preparing data in working_dir/
+Creating 3 layers of 256 units.
+Reading model parameters from working_dir/seq2seq.ckpt-511800
+Reading development and training data (limit: 0).
+  reading data line 100000
+global step 512100 learning rate 0.0143 step-time 4.38 perplexity 1.05
+  eval: bucket 0 perplexity 4764785864198185.00
+  eval: bucket 1 perplexity 2937280442369613.00
+  eval: bucket 2 perplexity 4383445615115.65
+  eval: bucket 3 perplexity 586838112916.38
+global step 512400 learning rate 0.0143 step-time 4.80 perplexity 1.06
+  eval: bucket 0 perplexity 93271379954856.55
+  eval: bucket 1 perplexity 164681585842556.38
+  eval: bucket 2 perplexity 5634889778126.18
+  eval: bucket 3 perplexity 355576354641.46
